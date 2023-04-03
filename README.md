@@ -1,6 +1,6 @@
 # datamodels
 Homework 0: Info 330
-* Redis: redis.md
+* OrientDB: orientdb.md
 * IBMDB2: ibmdb2.md
 * MariaDB: mariadb.md
 * MongoDB: mongodb.mg
