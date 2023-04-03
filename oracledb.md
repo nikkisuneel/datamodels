@@ -1,1 +1,1 @@
-g
+This database is called Oracle Database. Their information can be found on their website: https://www.oracle.com/database/. Oracle database is a commericial database management system. Their data model is a relational data model. They have many hosting models such as, on-premise, cloud, hybrid, and autonomous. To access using Java you can use Java Database Connectivity API or JDBC. For Python, you can use the cx_Oracle module. 
