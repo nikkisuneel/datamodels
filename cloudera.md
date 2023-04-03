@@ -1,1 +1,4 @@
-cloudera.md
+This database is called Cloudera. It can be found at this website: https://www.cloudera.com/products/operational-db.html. Cloudera provides a commericial
+distribution of the open-source Apache Hadoop software already created. Cloudera is offering for a fee services that extend and are built on top of the
+already existing Apache Hadoop ecosystem. Cloudera database model is a ecosystem componenets depending on specific componenets and tools used. Elements
+of Cloudera such as Apache Hive use SQL-like querying language called HiiveQL and is supporting a relationship data model. The hosting model for Apache Hadoop and Cloudera distrbution is a distrubted model. This is where data can be stored and processed across multiple nodes within a cluster. You would use Hadoop's Java API or Python API to access Cloudera using Java and Python respectively. These API's are providing libraries and a set of tools that allow the user to access data stored in a file system. 
